@@ -4,6 +4,9 @@ import java.awt.Graphics;
 
 import applet.AppletBase;
 
+
+// comment
+
 public abstract class Scene {
 
 	AppletBase base;
